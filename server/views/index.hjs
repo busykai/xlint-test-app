@@ -1,0 +1,30 @@
+<!--
+ Copyright 2013-2015 Intel Corporation.
+ 
+ See the file LICENSE for copying permission.
+-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>{{title}}</h1>
+    <p>Welcome to {{title}}</p>
+    <a href="config/{{config}}">{{config}}</a>
+    <h4>Compatibility Data</h4>
+    {{#data}}
+        <div>
+            <span>{{past}}</span>
+            <span>{{model}}</span>
+            <span>{{platform}}</span>
+            <span>{{timestamp}}</span>
+            {{#datas}}
+                {{#html}}<a href="data/{{link}}">{{title}}</a>{{/html}}
+                {{#media}}<a href="data/{{link}}">{{title}}</a>{{/media}}
+            {{/datas}}
+        </div>
+    {{/data}}
+  </body>
+</html>

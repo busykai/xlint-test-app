@@ -1,0 +1,4 @@
+node_modules
+server/node_modules
+server/public/data
+server/public/config/.DS_Store

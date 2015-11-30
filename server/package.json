@@ -1,0 +1,15 @@
+{
+  "name": "xlint-server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "hjs": "*",
+    "lodash": "^2.4.1",
+    "moment": "^2.7.0",
+    "q": "^1.0.1"
+  }
+}

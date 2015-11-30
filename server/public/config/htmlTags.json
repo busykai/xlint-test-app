@@ -1,0 +1,60 @@
+{
+    "tags": [
+        "video",
+        "audio",
+        "svg",
+        "math",
+        "canvas",
+        "progress",
+        "meter",
+        "details",
+        "summary",
+        "menu",
+        "datalist",
+        "template",
+        "section",
+        "article",
+        "header",
+        "footer",
+        "nav",
+        "figure",
+        "figcaption",
+        "time",
+        "mark",
+        "main"
+    ],
+    "attributes": {
+        "*": ["contenteditable"],
+        "a": ["download"],
+        "style": ["scoped"],
+        "iframe": [
+            "sandbox",
+            "srcdoc"
+        ],
+        "script": [
+            "async",
+            "defer"
+        ]
+    },
+    "input": {
+        "attributes": [
+            "required",
+            "placeholder",
+            "autofocus"
+        ],
+        "type": [
+            "color",
+            "date",
+            "datetime",
+            "datetime-local",
+            "email",
+            "month",
+            "number",
+            "range",
+            "search",
+            "tel",
+            "time",
+            "url"
+        ]
+    }
+}

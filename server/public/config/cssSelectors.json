@@ -1,0 +1,12 @@
+{
+  "::-webkit-selection" : {},
+  "::-o-selection" : {},
+  "::-moz-selection" : {},
+  "::-ms-selection" : {},
+  "::selection" : {},
+  "::-webkit-input-placeholder" : {},
+  "::-o-input-placeholder" : {},
+  "::-moz-placeholder" : {},
+  "::-ms-input-placeholder" : {},
+  "::input-placeholder" : {}
+}

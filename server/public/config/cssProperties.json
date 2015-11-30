@@ -1,0 +1,250 @@
+{"word-break"                  : {
+    "knownValues": ["keep-all", "break-all", "normal"]
+}, "word-wrap"                 : {
+    "knownValues": ["break-word", "normal"]
+}, "overflow-wrap"             : {
+    "knownValues": ["break-word", "normal"]
+}, "background-image"          : {
+    "knownValues": ["csscanvas", "svg", "-moz-repeating-radial-gradient", "-ms-repeating-radial-gradient", "-o-repeating-radial-gradient", "-webkit-repeating-radial-gradient", "repeating-radial-gradient", "-moz-repeating-linear-gradient", "-ms-repeating-linear-gradient", "-o-repeating-linear-gradient", "-webkit-repeating-linear-gradient", "repeating-linear-gradient", "-moz-radial-gradient", "-ms-radial-gradient", "-o-radial-gradient", "-webkit-radial-gradient", "radial-gradient", "-moz-linear-gradient", "-ms-linear-gradient", "-o-linear-gradient", "-webkit-linear-gradient", "linear-gradient"]
+}, "background"                : {
+    "knownValues": ["currentColor", "transparent", "hsla", "hsl", "rgba", "csscanvas", "svg", "-moz-repeating-radial-gradient", "-ms-repeating-radial-gradient", "-o-repeating-radial-gradient", "-webkit-repeating-radial-gradient", "repeating-radial-gradient", "-moz-repeating-linear-gradient", "-ms-repeating-linear-gradient", "-o-repeating-linear-gradient", "-webkit-repeating-linear-gradient", "repeating-linear-gradient", "-moz-radial-gradient", "-ms-radial-gradient", "-o-radial-gradient", "-webkit-radial-gradient", "radial-gradient", "-moz-linear-gradient", "-ms-linear-gradient", "-o-linear-gradient", "-webkit-linear-gradient", "linear-gradient"]
+}, "border-color"              : {
+    "knownValues": ["currentColor", "transparent", "hsla", "hsl", "rgba"]
+}, "background-color"          : {
+    "knownValues": ["currentColor", "transparent", "hsla", "hsl", "rgba"]
+}, "font-size"                 : {
+    "knownValues": ["rem", "ch", "vmax", "vmin", "vh", "vw"]
+}, "width"                     : {
+    "knownValues": ["rem", "ch", "-moz-fit-content", "-ms-fit-content", "-o-fit-content", "-webkit-fit-content", "fit-content", "-moz-fill-available", "-ms-fill-available", "-o-fill-available", "-webkit-fill-available", "fill-available", "-moz-min-content", "-ms-min-content", "-o-min-content", "-webkit-min-content", "min-content", "-moz-max-content", "-ms-max-content", "-o-max-content", "-webkit-max-content", "max-content", "vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "height"                    : {
+    "knownValues": ["rem", "ch", "-moz-fit-content", "-ms-fit-content", "-o-fit-content", "-webkit-fit-content", "fit-content", "-moz-fill-available", "-ms-fill-available", "-o-fill-available", "-webkit-fill-available", "fill-available", "-moz-min-content", "-ms-min-content", "-o-min-content", "-webkit-min-content", "min-content", "-moz-max-content", "-ms-max-content", "-o-max-content", "-webkit-max-content", "max-content", "vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "border-width"              : {
+    "knownValues": ["rem", "ch", "vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "background-position"       : {
+    "knownValues": ["vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "display"                   : {
+    "knownValues": ["-moz-inline-flex", "-ms-inline-flex", "-o-inline-flex", "-webkit-inline-flex", "inline-flex", "-moz-flexbox", "-ms-flexbox", "-o-flexbox", "-webkit-flexbox", "flexbox", "-moz-box", "-ms-box", "-o-box", "-webkit-box", "box", "-moz-flex", "-ms-flex", "-o-flex", "-webkit-flex", "flex"]
+}, "padding-top"               : {
+    "knownValues": ["rem", "ch", "-moz-fit-content", "-ms-fit-content", "-o-fit-content", "-webkit-fit-content", "fit-content", "-moz-fill-available", "-ms-fill-available", "-o-fill-available", "-webkit-fill-available", "fill-available", "-moz-min-content", "-ms-min-content", "-o-min-content", "-webkit-min-content", "min-content", "-moz-max-content", "-ms-max-content", "-o-max-content", "-webkit-max-content", "max-content", "vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "padding-bottom"            : {
+    "knownValues": ["rem", "ch", "-moz-fit-content", "-ms-fit-content", "-o-fit-content", "-webkit-fit-content", "fit-content", "-moz-fill-available", "-ms-fill-available", "-o-fill-available", "-webkit-fill-available", "fill-available", "-moz-min-content", "-ms-min-content", "-o-min-content", "-webkit-min-content", "min-content", "-moz-max-content", "-ms-max-content", "-o-max-content", "-webkit-max-content", "max-content", "vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "padding-left"              : {
+    "knownValues": ["rem", "ch", "-moz-fit-content", "-ms-fit-content", "-o-fit-content", "-webkit-fit-content", "fit-content", "-moz-fill-available", "-ms-fill-available", "-o-fill-available", "-webkit-fill-available", "fill-available", "-moz-min-content", "-ms-min-content", "-o-min-content", "-webkit-min-content", "min-content", "-moz-max-content", "-ms-max-content", "-o-max-content", "-webkit-max-content", "max-content", "vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "padding-right"             : {
+    "knownValues": ["rem", "ch", "-moz-fit-content", "-ms-fit-content", "-o-fit-content", "-webkit-fit-content", "fit-content", "-moz-fill-available", "-ms-fill-available", "-o-fill-available", "-webkit-fill-available", "fill-available", "-moz-min-content", "-ms-min-content", "-o-min-content", "-webkit-min-content", "min-content", "-moz-max-content", "-ms-max-content", "-o-max-content", "-webkit-max-content", "max-content", "vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "margin-top"                : {
+    "knownValues": ["rem", "ch", "vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "margin-bottom"             : {
+    "knownValues": ["rem", "ch", "vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "margin-left"               : {
+    "knownValues": ["rem", "ch", "vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "margin-right"              : {
+    "knownValues": ["rem", "ch", "vmax", "vmin", "vh", "vw", "-moz-calc", "-ms-calc", "-o-calc", "-webkit-calc", "calc"]
+}, "hyphens"                   : {
+    "knownValues": ["manual", "auto", "none"],
+    "prefixes"   : ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "user-select"               : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-shadow"               : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-emphasis-position"    : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-emphasis"             : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-emphasis-color"       : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-emphasis-style"       : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-underline-position"   : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-decoration-skip"      : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-decoration-style"     : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-decoration-color"     : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-decoration-line"      : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-overflow"             : {}, "ime-mode": {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "nav-down"                  : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "nav-left"                  : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "nav-right"                 : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "nav-up"                    : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "nav-index"                 : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "outline-offset"            : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "box-decoration-break"      : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "border-radius"             : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-synthesis"            : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-stretch"              : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-size-adjust"          : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-language-override"    : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-feature-settings"     : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-variant-east-asian"   : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-variant-alternates"   : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-variant-numeric "     : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-variant-caps"         : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-variant-position"     : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-variant-ligatures"    : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-variant"              : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "font-kerning"              : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "resolution"                : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "image-orientation"         : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "opacity"                   : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "tab-size"                  : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "grid-template"             : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "grid-template-areas"       : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "grid-template-columns"     : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "grid-template-rows"        : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "region-fragment"           : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "flow-from"                 : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "flow-into"                 : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "object-position"           : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "object-fit"                : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "resize"                    : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "break-inside"              : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "break-before"              : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "break-after"               : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "column-span"               : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "column-fill"               : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "column-rule-width"         : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "column-rule-style"         : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "column-rule-color"         : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "column-rule"               : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "column-gap"                : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "column-count"              : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "column-width"              : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "columns"                   : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "text-stroke"               : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "mask"                      : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "filter"                    : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "order"                     : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "justify-content"           : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "align-self"                : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "align-items"               : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "align-content"             : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "flex-shrink"               : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "flex-basis"                : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "flex-grow"                 : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "flex-flow"                 : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "flex-wrap"                 : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "flex-direction"            : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "flex"                      : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "backface-visibility"       : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "perspective-origin"        : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "perspective"               : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "transform-style"           : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "transform-origin"          : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "transform"                 : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "transition-delay"          : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "transition-timing-function": {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "transition-duration"       : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "transition-property"       : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "transition"                : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "box-reflect"               : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "box-sizing"                : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "box-shadow"                : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "border-image"              : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "background-origin"         : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "background-size"           : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "background-clip"           : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "animation-fill-mode"       : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "animation-play-state"      : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "animation-direction"       : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "animation-iteration-count" : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "animation-delay"           : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "animation-timing-function" : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "animation-duration"        : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "animation-name"            : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}, "animation"                 : {
+    "prefixes": ["-webkit-", "-o-", "-ms-", "-moz-"]
+}}
